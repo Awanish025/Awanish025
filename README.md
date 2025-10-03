@@ -98,6 +98,7 @@ I'm a passionate developer skilled in building scalable web applications using t
 - 📧 **Email:** [awanishverma025@gmail.com](mailto:awanishverma025@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/awanish-verma-a5a020263](https://linkedin.com/in/awanish-verma-a5a020263)
 - 💻 **GitHub:** [github.com/Awanish025](https://github.com/Awanish025)
+- 📸 **Instagram:** [instagram.com/awanish_025](https://www.instagram.com/verma_awanish/)
 
 ---
 
