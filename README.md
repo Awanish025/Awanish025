@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Awanish Verma
+# Hi there , I'm Awanish Verma
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -19,35 +19,27 @@
 
 ---
 
-🚀 **Full-Stack Developer | MERN Enthusiast | Competitive Programmer**
+ **Full-Stack Developer | MERN Enthusiast | Competitive Programmer**
 
 I'm a passionate developer skilled in building scalable web applications using the **MERN stack** and exploring **AI/ML**. I love solving problems and have solved **1000+ coding challenges** across platforms like LeetCode, Codeforces, and CodeChef.
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering (2022–2026)**
+-  **B.Tech in Computer Science & Engineering (2022–2026)**
   - Bundelkhand Institute Of Engineering & Technology, Jhansi
-- 💡 **Skilled in:** React.js, Node.js, Express.js, MongoDB, C++, Python, Java, SQL
-- 🌱 **Currently exploring:** AI/ML concepts (regression, classification, NumPy, Pandas)
-- 🏆 **Competitive Programmer:** Knight on LeetCode (Top 3% globally) | Codeforces Specialist | 3★ CodeChef
+-  **Skilled in:** React.js, Node.js, Express.js, MongoDB, C++, Python, Java, SQL
+-  **Currently exploring:** AI/ML concepts (regression, classification, NumPy, Pandas)
+-  **Competitive Programmer:** Knight on LeetCode (Top 3% globally) | Codeforces Specialist | 3★ CodeChef
 
 ---
 
-## 📌 Projects
 
-### [StudyNotion](https://github.com/Awanish025/StudyNotion)
-*Tech: MERN Stack, JWT, Razorpay*  
-📚 Online learning platform with secure authentication, payments, course management, and analytics dashboard.
-
-### [Shopping Cart App](https://github.com/Awanish025/Shopping_Cart)
-*Tech: React.js, Tailwind CSS*  
-🛒 Dynamic shopping cart with real-time price calculations, filtering, and cart persistence.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Languages:** C++, JavaScript, Python, SQL, HTML, CSS
 - **Frameworks/Libraries:** React.js, Node.js, Express.js, Tailwind CSS
@@ -55,7 +47,7 @@ I'm a passionate developer skilled in building scalable web applications using t
 - **Tools:** Git, GitHub, Postman, VS Code
 
 ---
-## 🏆 Coding Profiles
+##  Coding Profiles
 
 <a href="https://leetcode.com/u/awanish_26/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
@@ -71,16 +63,16 @@ I'm a passionate developer skilled in building scalable web applications using t
 </a>
 
 
-## 🏅 Achievements
+##  Achievements
 
-- 🌍 **Global Rank 448** in CodeChef Starters 181 & **396** in LeetCode Weekly Contest 468
-- 🟢 **Knight on LeetCode** (Peak rating: 1956, Top 3% globally)
-- 🔵 **Codeforces Specialist** (Peak rating: 1423)
-- 🔴 **CodeChef 3★** (Peak rating: 1621)
-- ✅ **Solved 1000+ coding problems** across platforms (LeetCode, Codeforces, CodeChef, GfG)
+-  **Global Rank 448** in CodeChef Starters 181 & **396** in LeetCode Weekly Contest 468
+-  **Knight on LeetCode** (Peak rating: 1956, Top 3% globally)
+-  **Codeforces Specialist** (Peak rating: 1423)
+-  **CodeChef 3★** (Peak rating: 1621)
+-  **Solved 1000+ coding problems** across platforms (LeetCode, Codeforces, CodeChef, GfG)
 
 ---
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -93,7 +85,7 @@ I'm a passionate developer skilled in building scalable web applications using t
 </div>
 
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - 📧 **Email:** [awanishverma025@gmail.com](mailto:awanishverma025@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/awanish-verma-a5a020263](https://linkedin.com/in/awanish-verma-a5a020263)
